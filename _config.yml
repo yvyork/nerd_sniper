@@ -21,8 +21,8 @@
 title: Nerd Sniper
 email: yvyork@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Awesome stuff I come by along my journey.
-baseurl: "yves_blog" # the subpath of your site, e.g. /blog
+  Nerd sniping is slang term for the action of giving an interesting problem to a person (usually a nerd), which will cause them to put a lot of effort into trying to solve the problem. The nerd stops all activity to devote attention to solving the problem, often at his or her own peril.
+baseurl: "nerd_sniper" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
